@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.login {
+  box-shadow: 0 0 5px gray;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.status {
+  box-shadow: 0 0 5px gray;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+#dahsboard {
+  display: none;
+}
